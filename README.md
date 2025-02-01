@@ -1,4 +1,6 @@
-# README
+# SmartTLS
+
+![Award](award.png)
 
 ## 1. Setup
 
